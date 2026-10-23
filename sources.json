@@ -1,0 +1,368 @@
+[
+ {
+  "path": "tweetner7/2021.test.json",
+  "url": "https://huggingface.co/datasets/tner/tweetner7/resolve/9d9c27f1d4fb18a02e0d8283bac6ebb01c56c458/dataset/2021.test.json",
+  "sha256": "f6614249136655bd1071c0101f8b256956245a3d338209e146031d9eb45e20e8"
+ },
+ {
+  "path": "tweetner7/label.json",
+  "url": "https://huggingface.co/datasets/tner/tweetner7/resolve/9d9c27f1d4fb18a02e0d8283bac6ebb01c56c458/dataset/label.json",
+  "sha256": "8ac0bee05ac6750360e7345863475399c9d13cb4316c74c558ea7832d786f948"
+ },
+ {
+  "path": "wnut17/emerging.test.annotated",
+  "url": "https://raw.githubusercontent.com/leondz/emerging_entities_17/e52a2d2a71ac1a051ca2d532eef28653c5c02603/emerging.test.annotated",
+  "sha256": "2aa79b764e56ec9264a1b30fdd9b70195bd00ff400b62edd8f399d5f13c178f0"
+ },
+ {
+  "path": "ccpe/data.json",
+  "url": "https://raw.githubusercontent.com/google-research-datasets/ccpe/2c9cd30f33f3a154b5a27d015333679262ff36f5/data.json",
+  "sha256": "4ff051ea7ea60cf0f480c911c7e2cfed56434e2e2c9ea8965ac5e26365773f0a"
+ },
+ {
+  "path": "conel2/ConEL22_EL_Train.json",
+  "url": "https://raw.githubusercontent.com/informagi/conversational-entity-linking-2022/321dfe857ab77b69ba95338a5ace826ae3e67567/dataset/Conversational_Entity_Linking_Annotations/ConEL22_EL_Train.json",
+  "sha256": "059b857f1e992115b684420a11aa01c24a408fdd16d986b9cd6629e8834c115a"
+ },
+ {
+  "path": "conel2/ConEL22_EL_Val.json",
+  "url": "https://raw.githubusercontent.com/informagi/conversational-entity-linking-2022/321dfe857ab77b69ba95338a5ace826ae3e67567/dataset/Conversational_Entity_Linking_Annotations/ConEL22_EL_Val.json",
+  "sha256": "b17fb3b500eed32d3fc7a9febba756db19e103ebe8220113e0fbc5306ee5fecd"
+ },
+ {
+  "path": "conel2/ConEL22_EL_Test.json",
+  "url": "https://raw.githubusercontent.com/informagi/conversational-entity-linking-2022/321dfe857ab77b69ba95338a5ace826ae3e67567/dataset/Conversational_Entity_Linking_Annotations/ConEL22_EL_Test.json",
+  "sha256": "fabfad473a727f0efaf79f7554b86af9539c9cfbde92f196358ade7a6e9503d1"
+ },
+ {
+  "path": "conel/ConEL_CNE.json",
+  "url": "https://raw.githubusercontent.com/informagi/conversational-entity-linking/d4d3d863060fa60f79c1c8c4012f85947ed6f33e/data/ConEL_Concept_Named_Entity/ConEL_CNE.json",
+  "sha256": "4c893919f4040b8f477d1215d69890eca7c2acdba6f0289384220dcff171c8d4"
+ },
+ {
+  "path": "stackoverflow_ner/test.txt",
+  "url": "https://raw.githubusercontent.com/jeniyat/StackOverflowNER/d1f408d235fcfbb268f028ef53162398ecb8a328/resources/annotated_ner_data/StackOverflow/test.txt",
+  "sha256": "e09ae70248e772e3794520dcb4a51d5ff8375d088506af40ebed302830ab4c50"
+ },
+ {
+  "path": "reddit_el/reddit_el.zip",
+  "url": "https://zenodo.org/api/records/3970806/files/reddit_el.zip/content",
+  "sha256": "7374f9279c04d5e5bc23f7df6b28cd0909156f432e11418f2a934f303a35cf4f",
+  "unzip": "reddit_el/extracted"
+ },
+ {
+  "path": "gum/dep/GUM_conversation_artist.conllu",
+  "url": "https://raw.githubusercontent.com/amir-zeldes/gum/22fdf87f9c71c96bcc771461d06e689b1f90020d/dep/GUM_conversation_artist.conllu",
+  "sha256": "ebc10ca7fd006fe1b1de2747fcdde74142c68faeac0f75b554ca7577398f602a"
+ },
+ {
+  "path": "gum/dep/GUM_conversation_atoms.conllu",
+  "url": "https://raw.githubusercontent.com/amir-zeldes/gum/22fdf87f9c71c96bcc771461d06e689b1f90020d/dep/GUM_conversation_atoms.conllu",
+  "sha256": "f899e67a43f53585b0bf3968bf4267a716215c0d7c6d3eb64c5a27a22840bc3b"
+ },
+ {
+  "path": "gum/dep/GUM_conversation_blacksmithing.conllu",
+  "url": "https://raw.githubusercontent.com/amir-zeldes/gum/22fdf87f9c71c96bcc771461d06e689b1f90020d/dep/GUM_conversation_blacksmithing.conllu",
+  "sha256": "ac73d6a3ff1948bc3b58adea7e9c3cf6dc8dd37b72e86e0fd55fa4439aa3c53c"
+ },
+ {
+  "path": "gum/dep/GUM_conversation_christmas.conllu",
+  "url": "https://raw.githubusercontent.com/amir-zeldes/gum/22fdf87f9c71c96bcc771461d06e689b1f90020d/dep/GUM_conversation_christmas.conllu",
+  "sha256": "64743d0505665eb4c08966e2ea3707a75342af15366dda7fb8b5a58ac0e9d758"
+ },
+ {
+  "path": "gum/dep/GUM_conversation_erasmus.conllu",
+  "url": "https://raw.githubusercontent.com/amir-zeldes/gum/22fdf87f9c71c96bcc771461d06e689b1f90020d/dep/GUM_conversation_erasmus.conllu",
+  "sha256": "6c6721c469797d113bececf9586fa9cb5d9f7cf296013772da3d8f6c81deb312"
+ },
+ {
+  "path": "gum/dep/GUM_conversation_family.conllu",
+  "url": "https://raw.githubusercontent.com/amir-zeldes/gum/22fdf87f9c71c96bcc771461d06e689b1f90020d/dep/GUM_conversation_family.conllu",
+  "sha256": "9f8d566b12fd35b82a8d7ca906194b7d8bd3fbdba3f31d5ce67916d71eefcfe9"
+ },
+ {
+  "path": "gum/dep/GUM_conversation_gossip.conllu",
+  "url": "https://raw.githubusercontent.com/amir-zeldes/gum/22fdf87f9c71c96bcc771461d06e689b1f90020d/dep/GUM_conversation_gossip.conllu",
+  "sha256": "a36e86bfb622f96b037e30a81aa289c709f3fc59626d460538e47f0c3d797cef"
+ },
+ {
+  "path": "gum/dep/GUM_conversation_grounded.conllu",
+  "url": "https://raw.githubusercontent.com/amir-zeldes/gum/22fdf87f9c71c96bcc771461d06e689b1f90020d/dep/GUM_conversation_grounded.conllu",
+  "sha256": "31bd15af6acef18c45be804c8a2520fd13e8b7072d6dbabaaa80201dd017498c"
+ },
+ {
+  "path": "gum/dep/GUM_conversation_lambada.conllu",
+  "url": "https://raw.githubusercontent.com/amir-zeldes/gum/22fdf87f9c71c96bcc771461d06e689b1f90020d/dep/GUM_conversation_lambada.conllu",
+  "sha256": "58b05d304b8ce365b68ac93412fc8b138fc8b297675908aa42281a151210753d"
+ },
+ {
+  "path": "gum/dep/GUM_conversation_retirement.conllu",
+  "url": "https://raw.githubusercontent.com/amir-zeldes/gum/22fdf87f9c71c96bcc771461d06e689b1f90020d/dep/GUM_conversation_retirement.conllu",
+  "sha256": "0c47c7fcab9244657eaa955cc812ce9dc38d96baced9176d8f81bd061576f609"
+ },
+ {
+  "path": "gum/dep/GUM_conversation_risk.conllu",
+  "url": "https://raw.githubusercontent.com/amir-zeldes/gum/22fdf87f9c71c96bcc771461d06e689b1f90020d/dep/GUM_conversation_risk.conllu",
+  "sha256": "0438bf58a3fd05c3219482103d753424e31f6557780ac9eb93dd8f84fd7e1227"
+ },
+ {
+  "path": "gum/dep/GUM_conversation_scientist.conllu",
+  "url": "https://raw.githubusercontent.com/amir-zeldes/gum/22fdf87f9c71c96bcc771461d06e689b1f90020d/dep/GUM_conversation_scientist.conllu",
+  "sha256": "183857fa12cb2c5190588619d30b5a44971c697c8dc1894f676a33fbf22b1d1f"
+ },
+ {
+  "path": "gum/dep/GUM_conversation_toys.conllu",
+  "url": "https://raw.githubusercontent.com/amir-zeldes/gum/22fdf87f9c71c96bcc771461d06e689b1f90020d/dep/GUM_conversation_toys.conllu",
+  "sha256": "7bdf0638eba222ea288b1df5d0aced812e5a131c0709717827ed196c7e28bb14"
+ },
+ {
+  "path": "gum/dep/GUM_conversation_vet.conllu",
+  "url": "https://raw.githubusercontent.com/amir-zeldes/gum/22fdf87f9c71c96bcc771461d06e689b1f90020d/dep/GUM_conversation_vet.conllu",
+  "sha256": "348e1f88e1fc5e7da2ca979b652ea755dd44037d5a5c71bc17c652def644d47e"
+ },
+ {
+  "path": "gum/dep/GUM_conversation_zero.conllu",
+  "url": "https://raw.githubusercontent.com/amir-zeldes/gum/22fdf87f9c71c96bcc771461d06e689b1f90020d/dep/GUM_conversation_zero.conllu",
+  "sha256": "75b35a64cd176b3ba0d297d8015eaf85d1e7d5a050642013e3307f964cdb43f7"
+ },
+ {
+  "path": "gum/dep/GUM_interview_ants.conllu",
+  "url": "https://raw.githubusercontent.com/amir-zeldes/gum/22fdf87f9c71c96bcc771461d06e689b1f90020d/dep/GUM_interview_ants.conllu",
+  "sha256": "3b524e28830e165df2aa5d59ae5bafca4c9d1c36555c00c347546ea99579ab2c"
+ },
+ {
+  "path": "gum/dep/GUM_interview_brotherhood.conllu",
+  "url": "https://raw.githubusercontent.com/amir-zeldes/gum/22fdf87f9c71c96bcc771461d06e689b1f90020d/dep/GUM_interview_brotherhood.conllu",
+  "sha256": "3c0f83d92605beb132b810844d441547985826716c208aa424d17c29b8ba58ef"
+ },
+ {
+  "path": "gum/dep/GUM_interview_chomsky.conllu",
+  "url": "https://raw.githubusercontent.com/amir-zeldes/gum/22fdf87f9c71c96bcc771461d06e689b1f90020d/dep/GUM_interview_chomsky.conllu",
+  "sha256": "66dd2a0d8ee18db246eac3e7b7c9057f856539a757c0557eaa646ae6f9e4a82f"
+ },
+ {
+  "path": "gum/dep/GUM_interview_cocktail.conllu",
+  "url": "https://raw.githubusercontent.com/amir-zeldes/gum/22fdf87f9c71c96bcc771461d06e689b1f90020d/dep/GUM_interview_cocktail.conllu",
+  "sha256": "d6ce66ab03522277341c2eb70d0882bacb44ec1ab02071f7b2d7d38ba7bee621"
+ },
+ {
+  "path": "gum/dep/GUM_interview_cyclone.conllu",
+  "url": "https://raw.githubusercontent.com/amir-zeldes/gum/22fdf87f9c71c96bcc771461d06e689b1f90020d/dep/GUM_interview_cyclone.conllu",
+  "sha256": "82d929c825cfe8d0849f0df8394ffc0f72800fb8b49cc03925549c2e537802ad"
+ },
+ {
+  "path": "gum/dep/GUM_interview_daly.conllu",
+  "url": "https://raw.githubusercontent.com/amir-zeldes/gum/22fdf87f9c71c96bcc771461d06e689b1f90020d/dep/GUM_interview_daly.conllu",
+  "sha256": "90a2aa204ca5cb53b37e8694492b9a4846ccf4c5709bdaec718e28d00f63029d"
+ },
+ {
+  "path": "gum/dep/GUM_interview_dungeon.conllu",
+  "url": "https://raw.githubusercontent.com/amir-zeldes/gum/22fdf87f9c71c96bcc771461d06e689b1f90020d/dep/GUM_interview_dungeon.conllu",
+  "sha256": "5102d4dff803c2510993446aab986f2e892ec02637ffe3150c5befc3685f37d1"
+ },
+ {
+  "path": "gum/dep/GUM_interview_gaming.conllu",
+  "url": "https://raw.githubusercontent.com/amir-zeldes/gum/22fdf87f9c71c96bcc771461d06e689b1f90020d/dep/GUM_interview_gaming.conllu",
+  "sha256": "3e5786bd55abb5e575f25d59d7b9a2faf86bfcd3efd204bfd5bb2022727aaa08"
+ },
+ {
+  "path": "gum/dep/GUM_interview_herrick.conllu",
+  "url": "https://raw.githubusercontent.com/amir-zeldes/gum/22fdf87f9c71c96bcc771461d06e689b1f90020d/dep/GUM_interview_herrick.conllu",
+  "sha256": "2e926886a49843a4a54a8c0ad0fc1a637779379ec54fff9b14ad4c9138a4313d"
+ },
+ {
+  "path": "gum/dep/GUM_interview_hill.conllu",
+  "url": "https://raw.githubusercontent.com/amir-zeldes/gum/22fdf87f9c71c96bcc771461d06e689b1f90020d/dep/GUM_interview_hill.conllu",
+  "sha256": "5ee36e1135f2335048c8207da9d4ad6de0efdc13780a09a091826a92eedb2b89"
+ },
+ {
+  "path": "gum/dep/GUM_interview_libertarian.conllu",
+  "url": "https://raw.githubusercontent.com/amir-zeldes/gum/22fdf87f9c71c96bcc771461d06e689b1f90020d/dep/GUM_interview_libertarian.conllu",
+  "sha256": "63c04cea970268094841f3aa79c5b13f08d9f6e2040c480c3a0461aa76e88280"
+ },
+ {
+  "path": "gum/dep/GUM_interview_licen.conllu",
+  "url": "https://raw.githubusercontent.com/amir-zeldes/gum/22fdf87f9c71c96bcc771461d06e689b1f90020d/dep/GUM_interview_licen.conllu",
+  "sha256": "58df7fe3081bd0fbb37729abf5c91a754753401e67d3839276c6bb20204ae0f1"
+ },
+ {
+  "path": "gum/dep/GUM_interview_mcguire.conllu",
+  "url": "https://raw.githubusercontent.com/amir-zeldes/gum/22fdf87f9c71c96bcc771461d06e689b1f90020d/dep/GUM_interview_mcguire.conllu",
+  "sha256": "24bfc07de0f9e907cd1a6e30491ee6ee209f9fe31f3d89bc34c31c39bbb3f910"
+ },
+ {
+  "path": "gum/dep/GUM_interview_mckenzie.conllu",
+  "url": "https://raw.githubusercontent.com/amir-zeldes/gum/22fdf87f9c71c96bcc771461d06e689b1f90020d/dep/GUM_interview_mckenzie.conllu",
+  "sha256": "73ed6ca2b739a0a1379c001fa74d93440205806cb3e5d41c07e4697435fb60b0"
+ },
+ {
+  "path": "gum/dep/GUM_interview_messina.conllu",
+  "url": "https://raw.githubusercontent.com/amir-zeldes/gum/22fdf87f9c71c96bcc771461d06e689b1f90020d/dep/GUM_interview_messina.conllu",
+  "sha256": "f963a5add63245d133397039644592df8168a7cbe239ea56b8e93bdd63d69c5a"
+ },
+ {
+  "path": "gum/dep/GUM_interview_onion.conllu",
+  "url": "https://raw.githubusercontent.com/amir-zeldes/gum/22fdf87f9c71c96bcc771461d06e689b1f90020d/dep/GUM_interview_onion.conllu",
+  "sha256": "8b8c486e28fed0c3550e1d03a8bcfc02a1df080c94535499d7865681422f2d57"
+ },
+ {
+  "path": "gum/dep/GUM_interview_peres.conllu",
+  "url": "https://raw.githubusercontent.com/amir-zeldes/gum/22fdf87f9c71c96bcc771461d06e689b1f90020d/dep/GUM_interview_peres.conllu",
+  "sha256": "e20bcb19b7b98dd5be0b9e1c7692900a65371f7e887ef8cb3f214a3eee769972"
+ },
+ {
+  "path": "gum/dep/GUM_interview_shalev.conllu",
+  "url": "https://raw.githubusercontent.com/amir-zeldes/gum/22fdf87f9c71c96bcc771461d06e689b1f90020d/dep/GUM_interview_shalev.conllu",
+  "sha256": "d69ff4e5b2189d5490e54a343cc75cd9c307ebf2b95ded74421d02ebe2a36270"
+ },
+ {
+  "path": "gum/dep/GUM_interview_stardust.conllu",
+  "url": "https://raw.githubusercontent.com/amir-zeldes/gum/22fdf87f9c71c96bcc771461d06e689b1f90020d/dep/GUM_interview_stardust.conllu",
+  "sha256": "2cf190bb516e4fcaac99913782ee81fb8b792bcca08880b2b9a90898623522f3"
+ },
+ {
+  "path": "gum/dep/GUM_podcast_addiction.conllu",
+  "url": "https://raw.githubusercontent.com/amir-zeldes/gum/22fdf87f9c71c96bcc771461d06e689b1f90020d/dep/GUM_podcast_addiction.conllu",
+  "sha256": "3f43dbb0593c1a4a7831b09422ed5dc22098470bbee6606a4a5bbc8e46357608"
+ },
+ {
+  "path": "gum/dep/GUM_podcast_bangladesh.conllu",
+  "url": "https://raw.githubusercontent.com/amir-zeldes/gum/22fdf87f9c71c96bcc771461d06e689b1f90020d/dep/GUM_podcast_bangladesh.conllu",
+  "sha256": "6c163bd39670f47bc346ef20dc4c008fb2819fd62129db8c7403d421d3e05bd1"
+ },
+ {
+  "path": "gum/dep/GUM_podcast_bezos.conllu",
+  "url": "https://raw.githubusercontent.com/amir-zeldes/gum/22fdf87f9c71c96bcc771461d06e689b1f90020d/dep/GUM_podcast_bezos.conllu",
+  "sha256": "0c9f1b3705e4e6005b49cc11e9e1ae0d058d2743fe48f2a4cc2251ba5b9e46a2"
+ },
+ {
+  "path": "gum/dep/GUM_podcast_blackholes.conllu",
+  "url": "https://raw.githubusercontent.com/amir-zeldes/gum/22fdf87f9c71c96bcc771461d06e689b1f90020d/dep/GUM_podcast_blackholes.conllu",
+  "sha256": "7a2c9b64dce2df4b90740f27337251c80b0876c40a217940b3cefdb646cbc4e9"
+ },
+ {
+  "path": "gum/dep/GUM_podcast_brave.conllu",
+  "url": "https://raw.githubusercontent.com/amir-zeldes/gum/22fdf87f9c71c96bcc771461d06e689b1f90020d/dep/GUM_podcast_brave.conllu",
+  "sha256": "e1cc51a78837c7fb9a23b5ea9c3d86ea59cb4d31643172b39de6f7ab5d4f98fc"
+ },
+ {
+  "path": "gum/dep/GUM_podcast_collaboration.conllu",
+  "url": "https://raw.githubusercontent.com/amir-zeldes/gum/22fdf87f9c71c96bcc771461d06e689b1f90020d/dep/GUM_podcast_collaboration.conllu",
+  "sha256": "b106000e903564affd9b8b38ddc9cf0cedc636a95bef1e8a4614ca08cdbecc9c"
+ },
+ {
+  "path": "gum/dep/GUM_podcast_library.conllu",
+  "url": "https://raw.githubusercontent.com/amir-zeldes/gum/22fdf87f9c71c96bcc771461d06e689b1f90020d/dep/GUM_podcast_library.conllu",
+  "sha256": "df65add8d254ac0bf315cfa2f0473afed50be2f462ce4c6c5facf80a4957da6c"
+ },
+ {
+  "path": "gum/dep/GUM_podcast_llms.conllu",
+  "url": "https://raw.githubusercontent.com/amir-zeldes/gum/22fdf87f9c71c96bcc771461d06e689b1f90020d/dep/GUM_podcast_llms.conllu",
+  "sha256": "3116ce00181f6c5a370c0dacbc5dfc16d7a5255e34292627f9c0c650edd89db6"
+ },
+ {
+  "path": "gum/dep/GUM_podcast_mealprep.conllu",
+  "url": "https://raw.githubusercontent.com/amir-zeldes/gum/22fdf87f9c71c96bcc771461d06e689b1f90020d/dep/GUM_podcast_mealprep.conllu",
+  "sha256": "b3ca5eb43e3f8e9fa436aea14c21dfa5b815eac81396fdba614534a4a8b600ec"
+ },
+ {
+  "path": "gum/dep/GUM_podcast_movie.conllu",
+  "url": "https://raw.githubusercontent.com/amir-zeldes/gum/22fdf87f9c71c96bcc771461d06e689b1f90020d/dep/GUM_podcast_movie.conllu",
+  "sha256": "4a50268e4d86c9d2eede90562962bd7778922d9b2af626dcf8392c72e9dcbe92"
+ },
+ {
+  "path": "gum/dep/GUM_podcast_multitasking.conllu",
+  "url": "https://raw.githubusercontent.com/amir-zeldes/gum/22fdf87f9c71c96bcc771461d06e689b1f90020d/dep/GUM_podcast_multitasking.conllu",
+  "sha256": "2dee0d1a5560137a8f88acb58488fa64d63c2c0755e25bee0a795520756dec42"
+ },
+ {
+  "path": "gum/dep/GUM_podcast_muskoka.conllu",
+  "url": "https://raw.githubusercontent.com/amir-zeldes/gum/22fdf87f9c71c96bcc771461d06e689b1f90020d/dep/GUM_podcast_muskoka.conllu",
+  "sha256": "09bff755c812605d1cf6d5ba3b7b5d1b4249e6bb8718e3de146bf83a6f35caff"
+ },
+ {
+  "path": "gum/dep/GUM_podcast_pandemic.conllu",
+  "url": "https://raw.githubusercontent.com/amir-zeldes/gum/22fdf87f9c71c96bcc771461d06e689b1f90020d/dep/GUM_podcast_pandemic.conllu",
+  "sha256": "6b778197b9391f36e28f54bff933f7fa9bd9388ac8f960f7e2df3d25054d37c8"
+ },
+ {
+  "path": "gum/dep/GUM_podcast_wrestling.conllu",
+  "url": "https://raw.githubusercontent.com/amir-zeldes/gum/22fdf87f9c71c96bcc771461d06e689b1f90020d/dep/GUM_podcast_wrestling.conllu",
+  "sha256": "09598d01add6ed321d701ac51b57331f088db329a0dc9bc50de306b079af719d"
+ },
+ {
+  "path": "gum/dep/GUM_vlog_appearance.conllu",
+  "url": "https://raw.githubusercontent.com/amir-zeldes/gum/22fdf87f9c71c96bcc771461d06e689b1f90020d/dep/GUM_vlog_appearance.conllu",
+  "sha256": "56470d67aa80608a5c8ce3acb517307b89b071b6120748e3c2e4c0b9b334ca49"
+ },
+ {
+  "path": "gum/dep/GUM_vlog_college.conllu",
+  "url": "https://raw.githubusercontent.com/amir-zeldes/gum/22fdf87f9c71c96bcc771461d06e689b1f90020d/dep/GUM_vlog_college.conllu",
+  "sha256": "eefaff8b87b27505dfc367bf0040c5e954ac250eb45d511c7766fe459f88849d"
+ },
+ {
+  "path": "gum/dep/GUM_vlog_covid.conllu",
+  "url": "https://raw.githubusercontent.com/amir-zeldes/gum/22fdf87f9c71c96bcc771461d06e689b1f90020d/dep/GUM_vlog_covid.conllu",
+  "sha256": "54f7b21b8571ffb953d59b3e49c42d5cb9e65cc7e3f69103faae03da4f5743c1"
+ },
+ {
+  "path": "gum/dep/GUM_vlog_exams.conllu",
+  "url": "https://raw.githubusercontent.com/amir-zeldes/gum/22fdf87f9c71c96bcc771461d06e689b1f90020d/dep/GUM_vlog_exams.conllu",
+  "sha256": "c8f4e2e4fa61b59be576bef72c61c41ec2edd5c4ec4abadb8c1b481068ce08f1"
+ },
+ {
+  "path": "gum/dep/GUM_vlog_hair.conllu",
+  "url": "https://raw.githubusercontent.com/amir-zeldes/gum/22fdf87f9c71c96bcc771461d06e689b1f90020d/dep/GUM_vlog_hair.conllu",
+  "sha256": "6fef69232ee1404f349182415a02d45952ad019f2b56a9295bc66d63c4287b43"
+ },
+ {
+  "path": "gum/dep/GUM_vlog_hiking.conllu",
+  "url": "https://raw.githubusercontent.com/amir-zeldes/gum/22fdf87f9c71c96bcc771461d06e689b1f90020d/dep/GUM_vlog_hiking.conllu",
+  "sha256": "7a2e22d75fa804b1cbd2190e0431c5e8cd437c43b0d7d59f9683aa89820cb60c"
+ },
+ {
+  "path": "gum/dep/GUM_vlog_lipstick.conllu",
+  "url": "https://raw.githubusercontent.com/amir-zeldes/gum/22fdf87f9c71c96bcc771461d06e689b1f90020d/dep/GUM_vlog_lipstick.conllu",
+  "sha256": "02fbbab1ae3c08d6e95b4a716ec314ed8260ecae8b543fa1045f33fb9d9872b9"
+ },
+ {
+  "path": "gum/dep/GUM_vlog_london.conllu",
+  "url": "https://raw.githubusercontent.com/amir-zeldes/gum/22fdf87f9c71c96bcc771461d06e689b1f90020d/dep/GUM_vlog_london.conllu",
+  "sha256": "deddeceb56dddc5f83e1f4697c59526f2442d9666ec8413ab0d0a467f8a23b74"
+ },
+ {
+  "path": "gum/dep/GUM_vlog_mermaid.conllu",
+  "url": "https://raw.githubusercontent.com/amir-zeldes/gum/22fdf87f9c71c96bcc771461d06e689b1f90020d/dep/GUM_vlog_mermaid.conllu",
+  "sha256": "a4317840f36a7654d77621585b9295bccf7de3659ef0f19adda72218c05b1fd9"
+ },
+ {
+  "path": "gum/dep/GUM_vlog_pizzeria.conllu",
+  "url": "https://raw.githubusercontent.com/amir-zeldes/gum/22fdf87f9c71c96bcc771461d06e689b1f90020d/dep/GUM_vlog_pizzeria.conllu",
+  "sha256": "b2dc6aac359b98637be5e0b5ad958f0d914ea4b701f95cb8e4a576d1a74df3d6"
+ },
+ {
+  "path": "gum/dep/GUM_vlog_portland.conllu",
+  "url": "https://raw.githubusercontent.com/amir-zeldes/gum/22fdf87f9c71c96bcc771461d06e689b1f90020d/dep/GUM_vlog_portland.conllu",
+  "sha256": "15a94543fa99837e35311ed1c9c49baa365cfd42f9e528a1015625c3e0b188ef"
+ },
+ {
+  "path": "gum/dep/GUM_vlog_pregnant.conllu",
+  "url": "https://raw.githubusercontent.com/amir-zeldes/gum/22fdf87f9c71c96bcc771461d06e689b1f90020d/dep/GUM_vlog_pregnant.conllu",
+  "sha256": "2a8bc2b73c1793b14451be856dd8f45528d4090fb7413786dc9727bc85caa65d"
+ },
+ {
+  "path": "gum/dep/GUM_vlog_radiology.conllu",
+  "url": "https://raw.githubusercontent.com/amir-zeldes/gum/22fdf87f9c71c96bcc771461d06e689b1f90020d/dep/GUM_vlog_radiology.conllu",
+  "sha256": "d9d5ae0e709fa664c63ed5f90f80f962f51c6e64beac7e5f5e1aea5217d32a9b"
+ },
+ {
+  "path": "gum/dep/GUM_vlog_studying.conllu",
+  "url": "https://raw.githubusercontent.com/amir-zeldes/gum/22fdf87f9c71c96bcc771461d06e689b1f90020d/dep/GUM_vlog_studying.conllu",
+  "sha256": "85bced8465f0c6c6db06fea4bb9cf7d02e00c06694058fac21a27a462866980b"
+ },
+ {
+  "path": "gum/dep/GUM_vlog_wine.conllu",
+  "url": "https://raw.githubusercontent.com/amir-zeldes/gum/22fdf87f9c71c96bcc771461d06e689b1f90020d/dep/GUM_vlog_wine.conllu",
+  "sha256": "037cf5a95249cbdf8ab64ac6a2d2398d2a9a67a24960d76642c875b50d06f011"
+ }
+]

@@ -1,0 +1,6 @@
+# downloaded sources and built data hold other datasets' text
+sources/
+data/items.jsonl
+data/blind_core.jsonl
+data/manifest.json
+__pycache__/
